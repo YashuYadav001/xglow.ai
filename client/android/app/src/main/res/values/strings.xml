@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">XGLOW.AI</string>
+    <string name="title_activity_main">XGLOW.AI</string>
+    <string name="package_name">com.yashu.xglow</string>
+    <string name="custom_url_scheme">com.yashu.xglow</string>
+</resources>

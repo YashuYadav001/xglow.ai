@@ -18,7 +18,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomeRedirect />} />
 
-        <Route path="/" element={<Onboarding />} />
+        <Route path="/onboarding" element={<Onboarding />} />
         <Route path="/login" element={<Login />} />
 
         <Route
